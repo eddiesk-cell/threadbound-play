@@ -1,5 +1,5 @@
-# Legend Defenders playtest
+# Threadbound playtest
 
 Play: https://eddiesk-cell.github.io/threadbound-play/
 
-Built game only (commit a687c45 of the private source repo).
+Built game only (commit 75536a3 of the private source repo).
