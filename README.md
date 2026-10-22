@@ -2,4 +2,4 @@
 
 Play: https://eddiesk-cell.github.io/threadbound-play/
 
-Built game only (commit fd6dc19 of the private source repo).
+Built game only (commit 415cce2 of the private source repo).
